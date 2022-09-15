@@ -1,0 +1,9 @@
+T
+B
+Number of arms
+Number of resources
+Mean reward
+Mean drift 1, Mean drift 2, ... Mean drift m
+Mean reward
+Mean drift 1, Mean drift 2, ... Mean drift m
+...
