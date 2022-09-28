@@ -1,5 +1,5 @@
 # Non-monotonic Resource Utilization in the Bandits with Knapsacks Problem
-This repository contains code for the paper "Non-monotonic Resource Utilization in the Bandits with Knapsacks Problem".
+This repository contains code for the paper "[Non-monotonic Resource Utilization in the Bandits with Knapsacks Problem](https://arxiv.org/abs/2209.12013)" published in NeurIPS 2022.
 
 ## Usage
 
